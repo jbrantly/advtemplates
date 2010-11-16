@@ -1,0 +1,5 @@
+Example code for the SenchaCon 2010 Advanced Templates session. 
+
+slideexamples - Contains working snippets of code that were used in the slides during the session.
+
+exampleapp - Final version of example app shown at the end of the session. Note that app was only tested in Chrome and uses some CSS3. While code should run cross-browser, look and feel will vary widely.
